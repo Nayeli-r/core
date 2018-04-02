@@ -132,6 +132,7 @@
             <DNSLookup VisibleName="DNS Lookup" url="/diag_dns.php"/>
             <PacketCapture VisibleName="Packet Capture" url="/diag_packet_capture.php"/>
             <Ping url="/diag_ping.php"/>
+            <Arping url="/pruebas.php"></Arping>
             <TestPort VisibleName="Port Probe" url="/diag_testport.php"/>
             <Traceroute VisibleName="Trace Route" url="/diag_traceroute.php"/>
         </Diagnostics>
