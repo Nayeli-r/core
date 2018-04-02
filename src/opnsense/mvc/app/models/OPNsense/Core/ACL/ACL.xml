@@ -144,6 +144,12 @@
             <pattern>diag_ping.php*</pattern>
         </patterns>
     </page-diagnostics-ping>
+    <page-diagnostics-Arping>
+        <name>Diagnostics: Arping</name>
+        <patterns>
+            <pattern>pruebas.php*</pattern>
+        </patterns>
+    </page-diagnostics-Arping>
     <page-diagnostics-rebootsystem>
         <name>Diagnostics: Reboot System</name>
         <patterns>
